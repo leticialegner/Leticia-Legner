@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300;1,700&display=swap');
+h1{
+    font-size:larger}
+
+header{
+   background-color: rgb(87, 89, 231);
+   text-align: center;
+   margin:auto;}
+
+.sessãoblog{
+    background-color: rgba(127, 169, 224, 0.452);
+    margin:auto;
+    line-height:auto;
+    font-family: 'Lato', sans-serif;
+
+    border: 10px;
+    margin: 200px border: 15px solid black;
+    border-color: white;
+    border-style: solid;}
+
+form{
+
+    background-color: rgb(59, 61, 223);
+    text-align: center;
+    margin:auto; 
+   
+    border: 5px;
+    margin: auto border: 10px solid black;
+    border-color: black;
+    border-style: solid;} 
+        
+a{
+    text-align: right;
+    display: block;}
+        
+.label{
+    color: rgb(255, 255, 255);}
+
+.input{
+    color: rgb(28, 11, 136);}
+
+.input1{
+    background-color: rgb(70, 164, 219);}
+
+.obs {
+    color: brown;
+}
